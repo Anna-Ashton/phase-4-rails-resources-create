@@ -45,6 +45,7 @@ end
 After updating our routes, run `rails routes` to check what routes are now
 available:
 
+
 ```txt
 Prefix  Verb  URI Pattern           Controller#Action
  birds  GET   /birds(.:format)      birds#index
